@@ -1,0 +1,57 @@
+[
+  { "id": 1, "name": "Blob", "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/fish.png?alt=media&token=04e7f42e-6257-4a71-a38a-f1fd9d55aef9" },
+  {
+    "id": 2,
+    "name": "Green",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/GreenFish.png?alt=media&token=ac8e30f9-3719-4a03-a8c6-35f0e55fe174",
+    "price": 50
+  },
+  {
+    "id": 3,
+    "name": "Pok",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/PokFish.png?alt=media&token=838f192f-a259-48f0-aac4-9be63c106c6f",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "Yellow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/YellowFish.png?alt=media&token=c8be45f4-db7a-4775-b899-46fc5b80bacc",
+    "price": 150
+  },
+  {
+    "id": 5,
+    "name": "Gip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/GipFish.png?alt=media&token=abfde835-fe98-4876-87bc-fad364816760",
+    "price": 180
+  },
+  {
+    "id": 6,
+    "name": "Boby",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/BobyFish.png?alt=media&token=9c5ad34a-e3db-4a72-be27-874a99d9bb00",
+    "price": 190
+  },
+  {
+    "id": 7,
+    "name": "Sharky",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/Sharky.png?alt=media&token=2cfd8b91-ce13-42f8-aec4-653441ea54ca",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "name": "Bluil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/Bluil.png?alt=media&token=19c22269-7e52-42a1-84f2-b8d678475d56",
+    "price": 250
+  },
+  {
+    "id": 9,
+    "name": "Blob",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/BlobHallowHat.png?alt=media&token=6c8306e0-f4ff-41ae-abe8-6b95e4e8ed11",
+    "price": 100
+  },
+  {
+    "id": 10,
+    "name": "Green",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/GreenhalloweenHat.png?alt=media&token=8ad85936-3545-488c-91ac-c0d6a692da67",
+    "price": 100
+  }
+]
